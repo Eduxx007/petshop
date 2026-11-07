@@ -1,0 +1,11 @@
+{
+  "name": "pet-shop-bicho-feliz",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "npm --prefix subsequent-shell run dev",
+    "build": "npm --prefix subsequent-shell run build",
+    "preview": "npm --prefix subsequent-shell run preview",
+    "astro": "npm --prefix subsequent-shell run astro"
+  }
+}
